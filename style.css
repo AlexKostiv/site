@@ -1,12 +1,13 @@
 body
 { width:940px;
 margin:auto;
-background: no repeat;  
+background: repeat;  
 height:401px;
 width:940px;
 text-align:center;
 color:green;
 background-color: purple;
+
 }
 
 
