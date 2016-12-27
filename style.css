@@ -1,13 +1,5 @@
 body
-{ width:940px;
-margin:auto;
-background: repeat;  
-height:401px;
-width:940px;
-text-align:right;
-color:green;
-background-color: purple;
-
+{text-align:right;
+color: purple;
+background-color: tomato;
 }
-
-
