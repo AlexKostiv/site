@@ -1,10 +1,10 @@
 body
 {text-align:right;
 color: purple;
-background-color: tomato;
+background-color: blue;
 }
 .kube
 {background-color: orange;
 width:30px;
 height: 80px;
-border:10px black solid;}
+border:100px red solid;}
