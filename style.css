@@ -3,3 +3,8 @@ body
 color: purple;
 background-color: tomato;
 }
+.kube
+{background-color: orange;
+width:30px;
+height: 80px;
+border:10px black solid;}
